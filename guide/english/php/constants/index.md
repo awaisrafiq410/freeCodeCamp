@@ -10,7 +10,7 @@ It is important to know that unlike variables, constants ALWAYS have a global sc
 ### Example
 ```PHP
 <?php
-define("freeCodeCamp", "Learn to code and help nonprofits", false);
+define("freeCodeCamp", "Learn to code and help nonprofits");
 echo freeCodeCamp;
 ```
 **Output:**
